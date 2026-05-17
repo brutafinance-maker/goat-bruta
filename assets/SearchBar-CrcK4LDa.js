@@ -1,0 +1,1 @@
+import{$ as s,I as o,S as u}from"./index-BE8r2mDL.js";const c=({value:a,onChange:e,placeholder:r="Pesquisar...",className:t=""})=>s.jsx(o,{value:a,onChange:n=>e(n.target.value),placeholder:r,className:t,leftIcon:s.jsx(u,{size:20})});export{c as S};
